@@ -21,6 +21,6 @@
 Телефони загалом стали універсальним інструментом, що замінює ПК у багатьох завданнях, включаючи навчання, розваги та персоналізацію, про що свідчить популярність відповідних категорій.
 
 
-[Tableau](https://public.tableau.com/app/profile/dmitriy1152/viz/Google_Playstore/Sheet2?publish=yes "Перейти на Tableau Public")
+[Tableau](https://public.tableau.com/app/profile/dmitriy1152/viz/Google_Playstore/Dashboard1?publish=yes "Перейти на Tableau Public")
 
 [Презентація](https://github.com/dkolesov95/tableau/blob/main/google_playstore/%D0%94%D0%B0%D1%88%D0%B1%D0%BE%D1%80%D0%B4%20%D0%BF%D0%BE%20Google%20Play%20Store.pdf "Презентація")
